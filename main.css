@@ -1,0 +1,50 @@
+.sidebar {
+    background-color: #3498db;
+    padding-left: 15px;
+    width: 250;
+    min-height: 1500px;
+    
+    top: 0;
+    left: 0;
+    bottom: 0;
+    color: #FFFFFF;
+}
+ul li{
+    background-color: #3498db;
+}
+.sidebar h1{
+	font-weight: 300;
+	color: #FFFFFF;
+}
+input[type="button"],input[type="text"]{
+	color:black;
+}
+td{
+    max-width: 40px;
+    word-wrap:break-word;
+}
+.dataTables_empty{
+    display: none;
+    visibility: hidden;
+}
+table{
+    width: 50%;
+}
+.portfolio {
+    background-color: #bfc5c9;
+    position: absolute;
+    top: 0;
+    left: 250px;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    
+    -moz-transition: left 0.5s ease;
+    transition: left 0.5s ease;
+}
+table.dataTable{
+    line-height: 0.8;
+}
+#searchbutton,#tagsearch{
+width:90%;
+}

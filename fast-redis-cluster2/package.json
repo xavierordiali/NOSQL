@@ -1,0 +1,60 @@
+{
+  "name": "fast-redis-cluster2",
+  "version": "2.0.8",
+  "description": "Fast trully async redis cluster client library with HA support, can handle reshard, failovers etc...",
+  "author": {
+    "name": "Arseniy Pavlenko",
+    "email": "h0x91b@gmail.com"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "redis": "0.8.x",
+    "redis-fast-driver": "*"
+  },
+  "optionalDependencies": {
+    "redis-fast-driver": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:h0x91b/fast-redis-cluster.git#remake"
+  },
+  "bugs": {
+    "url": "https://github.com/h0x91b/fast-redis-cluster/issues"
+  },
+  "homepage": "https://github.com/h0x91b/fast-redis-cluster",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "redis-cluster"
+  ],
+  "license": "ISC",
+  "gitHead": "fb41f2f522a458e645456ca0fbe44059d15c32e6",
+  "_id": "fast-redis-cluster2@2.0.8",
+  "_shasum": "aeb59b960b52cbf006188826c07ecb241d5fe92b",
+  "_from": "fast-redis-cluster2@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {
+    "name": "h0x91b",
+    "email": "h0x91b@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "h0x91b",
+      "email": "h0x91b@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "aeb59b960b52cbf006188826c07ecb241d5fe92b",
+    "tarball": "https://registry.npmjs.org/fast-redis-cluster2/-/fast-redis-cluster2-2.0.8.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/fast-redis-cluster2-2.0.8.tgz_1457871686225_0.6152946080546826"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/fast-redis-cluster2/-/fast-redis-cluster2-2.0.8.tgz"
+}
